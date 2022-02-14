@@ -1,0 +1,29 @@
+
+{
+  "users": [
+    {
+      "firstName": "Nirav",
+      "lastName": "Vachhani",
+      "email": "abc@gmail.com",
+      "dateOfBirth": "22/12/1995",
+      "shortBio": "Hello there, i am Nirav",
+      "id": 2
+    },
+    {
+      "firstName": "Prince",
+      "lastName": "Patel",
+      "email": "prince.p@gmail.com",
+      "dateOfBirth": "22/12/1998",
+      "shortBio": "HI there, i am Prince",
+      "id": 3
+    },
+    {
+      "firstName": "Annie",
+      "lastName": "Mario",
+      "email": "annie@gmail.com",
+      "dateOfBirth": "08/07/2000",
+      "shortBio": "Hi, I am Annie",
+      "id": 4
+    }
+  ]
+} 
